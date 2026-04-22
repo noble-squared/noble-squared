@@ -1,1 +1,1 @@
-I'm a computer science student at Western Colorado University. My primary programming languages are Python and C++. Find me at my Linkedin in my profile to learn more about what I've been doing!
+I'm a computer science student at the University of Colorado Boulder. My primary programming languages are Java and C++, and I'm gaining an appreciation for TypeScript. Find me on Linkedin (linked in my profile) to connect!
