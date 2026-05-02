@@ -1,1 +1,1 @@
-I'm a computer science student at the University of Colorado Boulder. My primary programming languages are Java and C++, and I'm gaining an appreciation for TypeScript. Find me on Linkedin (linked in my profile) to connect!
+I'm a computer science student at the University of Colorado Boulder. I have experience in Java, TypeScript, C++, Python, and Hono. I've also dabbled in Scala, C, and GDScript for game development in Godot. Find me on Linkedin (linked in my profile) to connect!
